@@ -1,1 +1,2 @@
 #!/bin/bash
+RUN apt update && RUN APT install unzip
